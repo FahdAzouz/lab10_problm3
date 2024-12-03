@@ -50,7 +50,7 @@ export default function Page() {
               <li className="ml-4">
                 <span className="font-semibold">1. Project Structure:</span>
                 <p className="mt-2">
-                  I organized the project using Next.js's app directory structure, creating the main page in the app directory.
+                  I organized the project using Next.js&apos;s app directory structure, creating the main page in the app directory.
                 </p>
               </li>
               <li className="ml-4">
@@ -62,7 +62,7 @@ export default function Page() {
               <li className="ml-4">
                 <span className="font-semibold">3. Deployment:</span>
                 <p className="mt-2">
-                  Deployed the application using Vercel's platform, which provides excellent integration with Next.js projects.
+                  Deployed the application using Vercel&apos;s platform, which provides excellent integration with Next.js projects.
                 </p>
               </li>
             </ol>
